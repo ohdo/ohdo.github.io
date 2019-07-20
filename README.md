@@ -1,2 +1,1 @@
-# ohdo.github.io
-mysite
+http://www.mihuiyi.site
